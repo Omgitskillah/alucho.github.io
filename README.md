@@ -1,4 +1,7 @@
 ### Hi there 👋
+Welcome to my gitHub page.  
+Most or my repositories are private but I'm working on a couple of portfolio projects to showcase some of my skill. 
+Circle back when you get the chance to catch my updates.
 
 <!--
 **Omgitskillah/omgitskillah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
